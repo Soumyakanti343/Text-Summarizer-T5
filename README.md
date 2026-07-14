@@ -65,7 +65,7 @@ In this project, the **T5-Small Transformer** model was fine-tuned on the **SAMS
                HTML • CSS • JavaScript UI
 ```
 
-> **Architecture Diagram:** `assets/architecture.png`
+> **Architecture Diagram:** `Architecture.png`
 
 ---
 
